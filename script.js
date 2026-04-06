@@ -47,7 +47,7 @@ $(document).ready(function () {
 				  }
 
 				  function gogogo() {
-					  document.title = "BlueSky!";
+					  document.title = "Bluesky!";
 					  body.addClass("play");
 
 					  $("#spinner").fadeOut(200);
